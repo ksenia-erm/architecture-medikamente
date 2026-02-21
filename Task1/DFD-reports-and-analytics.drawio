@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="Страница-1" id="EAAmyb7sTy7DTrNJAdC7">
+    <mxGraphModel dx="1997" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3M5c9dKFyzo09OjZMuAK-1" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=none;labelBackgroundColor=none;fontColor=default;fontSize=12;" value="&lt;h2 class=&quot;mb-2 mt-4 [.has-inline-images_&amp;amp;]:clear-end font-editorial font-bold text-base first:mt-0&quot; id=&quot;24------bimlai&quot; style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: oklch(0.8735 0.002 67.8 / 0.14); scrollbar-color: initial; scrollbar-width: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: 530; margin: 1rem 0px 0.5rem; line-height: 1.25; text-wrap: pretty; letter-spacing: 0px; font-optical-sizing: none; font-variation-settings: &amp;quot;opsz&amp;quot; 17; clear: inline-end;&quot;&gt;Формирование отчётов и аналитика&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3M5c9dKFyzo09OjZMuAK-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontColor=default;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px; text-wrap-mode: wrap;&quot;&gt;Бизнес-аналитик&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="3M5c9dKFyzo09OjZMuAK-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3M5c9dKFyzo09OjZMuAK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yk0LuNKXxFJjetaofzd1-13" edge="1" parent="1" source="3M5c9dKFyzo09OjZMuAK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yk0LuNKXxFJjetaofzd1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yk0LuNKXxFJjetaofzd1-14" connectable="0" parent="yk0LuNKXxFJjetaofzd1-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;span style=&quot;letter-spacing: 0.08px; text-align: start; text-wrap-mode: wrap;&quot;&gt;Загружаются полные данные, включая PII и, возможно, медицинские данные&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1872" y="-1" as="geometry">
+            <mxPoint x="71" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3M5c9dKFyzo09OjZMuAK-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacingLeft=10;fontColor=default;labelBackgroundColor=none;fontSize=11;" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;Файловый сервер&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-family: pplxSerif, pplxSerif, ui-serif, Georgia, Cambria, serif; letter-spacing: 0.08px;&quot;&gt;Набор Excel-отчётов и выгрузок&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: pplxSerif, pplxSerif, ui-serif, Georgia, Cambria, serif; letter-spacing: 0.08px;&quot;&gt;Базы 1С (файлы)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="107.5" width="265" x="285" y="392.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3M5c9dKFyzo09OjZMuAK-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;letter-spacing: 0.08px;&quot;&gt;собирает разные данные из файлов Excel и 1С&amp;nbsp; для анализа&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="155" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3M5c9dKFyzo09OjZMuAK-19" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontColor=default;labelBackgroundColor=none;align=left;fontFamily=Helvetica;fontSize=11;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: inherit; letter-spacing: 0.08px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Нет отдельного data lake/warehouse, нет зоны обезличенных данных.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: inherit; letter-spacing: 0.08px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Аналитика строится на «сырых» операционных данных без анонимизации/псевдонимизации&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="190" width="250" x="430" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3M5c9dKFyzo09OjZMuAK-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="AS IS&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="150" x="260" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yk0LuNKXxFJjetaofzd1-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" value="&lt;span style=&quot;letter-spacing: 0.08px; text-align: start;&quot;&gt;Подготовка аналитики&lt;br&gt;(Jupyter)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="315" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="yk0LuNKXxFJjetaofzd1-15" edge="1" parent="1" source="yk0LuNKXxFJjetaofzd1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.072;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" target="3M5c9dKFyzo09OjZMuAK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yk0LuNKXxFJjetaofzd1-16" connectable="0" parent="yk0LuNKXxFJjetaofzd1-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" value="&lt;span style=&quot;letter-spacing: 0.08px; text-align: start; text-wrap-mode: wrap;&quot;&gt;Результаты сохраняются как новые Excel/отчёты, потенциально снова с PII&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.5918" y="-2" as="geometry">
+            <mxPoint x="-53" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;TO BE&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="280" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-10" edge="1" parent="1" source="04d-tC9PD0CmCFG9TaTX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#FF0000,#FF0000);" target="04d-tC9PD0CmCFG9TaTX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="910" />
+              <mxPoint x="200" y="1075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=light-dark(#FF0000,#FF0000);fontColor=light-dark(#FF0000,#FF0000);" value="D1" vertex="1">
+          <mxGeometry height="80" width="60" x="60" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-11" edge="1" parent="1" source="04d-tC9PD0CmCFG9TaTX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#FF0000,#FF0000);" target="04d-tC9PD0CmCFG9TaTX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1020" />
+              <mxPoint x="200" y="1075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=light-dark(#FF0000,#FF0000);fontColor=light-dark(#FF0000,#FF0000);" value="D2" vertex="1">
+          <mxGeometry height="80" width="60" x="60" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-12" edge="1" parent="1" source="04d-tC9PD0CmCFG9TaTX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#FF0000,#FF0000);" target="04d-tC9PD0CmCFG9TaTX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1140" />
+              <mxPoint x="200" y="1075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=light-dark(#FF0000,#FF0000);fontColor=light-dark(#FF0000,#FF0000);" value="D5" vertex="1">
+          <mxGeometry height="80" width="60" x="60" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-13" edge="1" parent="1" source="04d-tC9PD0CmCFG9TaTX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=light-dark(#FF0000,#FF0000);strokeColor=light-dark(#FF0000,#FF0000);" target="04d-tC9PD0CmCFG9TaTX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-8" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=light-dark(#FF0000,#FF0000);fontColor=light-dark(#FF0000,#FF0000);" value="EMR" vertex="1">
+          <mxGeometry height="80" width="60" x="60" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=light-dark(#FF0000,#FF0000);strokeColor=light-dark(#FF0000,#FF0000);" value="&lt;span style=&quot;letter-spacing: 0.08px; text-align: start;&quot;&gt;ETL-процесс&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="410" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#FF0000,#FF0000);labelBackgroundColor=none;strokeColor=light-dark(#FF0000,#FF0000);" value="&lt;h2 class=&quot;mb-2 mt-4 [.has-inline-images_&amp;amp;]:clear-end font-editorial font-bold text-base first:mt-0&quot; id=&quot;51----etl--data-lake-raw&quot; style=&quot;box-sizing: border-box; border-width: 0px; border-style: solid; border-color: oklch(0.2642 0.013 93.9 / 0.14); scrollbar-color: initial; scrollbar-width: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: 530; margin: 1rem 0px 0.5rem; line-height: 1.25; text-wrap: pretty; letter-spacing: 0px; font-optical-sizing: none; font-variation-settings: &amp;quot;opsz&amp;quot; 17; clear: inline-end; text-align: start;&quot;&gt;Data Lake (raw)&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="105" width="109" x="660" y="1022" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-16" edge="1" parent="1" source="04d-tC9PD0CmCFG9TaTX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#FF0000,#FF0000);" target="04d-tC9PD0CmCFG9TaTX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-18" edge="1" parent="1" source="04d-tC9PD0CmCFG9TaTX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#FF0000,#FF0000);" target="04d-tC9PD0CmCFG9TaTX-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1260" />
+            </Array>
+            <mxPoint x="120" y="1260" as="sourcePoint" />
+            <mxPoint x="410" y="1075" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#FF0000,#FF0000);labelBackgroundColor=none;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px;&quot;&gt;data: pii.identity, conf.health, finance.payment&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px;&quot;&gt;channel: internal, secure (TLS)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px;&quot;&gt;policy: no direct analyst access (только для ETL)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="215" y="1059" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#FF0000,#FF0000);labelBackgroundColor=none;fontFamily=Helvetica;fontSize=11;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; letter-spacing: 0.08px;&quot;&gt;шифрованное хранилище&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; letter-spacing: 0.08px;&quot;&gt;access: restricted (только тех.учётки ETL)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: transparent;&quot;&gt;tags: same as source (pii.identity, conf.health, ...)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: transparent;&quot;&gt;audit: вкл&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="750" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=light-dark(#FF0000,#FF0000);labelBackgroundColor=none;strokeColor=light-dark(#FF0000,#FF0000);" value="&lt;span style=&quot;letter-spacing: 0.08px; text-align: start;&quot;&gt;ETL (обезличивание)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="650" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-21" edge="1" parent="1" source="04d-tC9PD0CmCFG9TaTX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#FF0000,#FF0000);" target="04d-tC9PD0CmCFG9TaTX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-22" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=light-dark(#FF0000,#FF0000);fontColor=light-dark(#FF0000,#FF0000);" value="Обезличенные данные" vertex="1">
+          <mxGeometry height="110" width="110" x="665" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-23" edge="1" parent="1" source="04d-tC9PD0CmCFG9TaTX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#FF0000,#FF0000);" target="04d-tC9PD0CmCFG9TaTX-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#FF0000,#FF0000);labelBackgroundColor=none;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; letter-spacing: 0.08px;&quot;&gt;data: aggregated, pseudo-ID (no direct PII)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; letter-spacing: 0.08px;&quot;&gt;policy: anonymization/pseudonymization: remove pii.identity, contact, contract.document; keep age, gender, diagnosis код и т.п.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; letter-spacing: 0.08px;&quot;&gt;tags: use.analytics, maybe conf.health but without identity&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="700" y="1366" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#FF0000,#FF0000);labelBackgroundColor=none;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: transparent;&quot;&gt;шифрованное хранилище&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: transparent;&quot;&gt;access: BI_Analyst, DataScientist&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: transparent;&quot;&gt;tags: use.analytics (без pii.identity)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="760" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-28" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#FF0000,#FF0000);strokeColor=light-dark(#FF0000,#FF0000);" value="&lt;span style=&quot;letter-spacing: 0.08px; text-align: start; text-wrap-mode: wrap; background-color: oklch(0.9798 0.005 78.3);&quot;&gt;Аналитик с&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;letter-spacing: 0.08px; text-align: start; text-wrap-mode: wrap; background-color: oklch(0.9798 0.005 78.3);&quot;&gt;Jupyter/BI&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="285" y="1495" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-30" edge="1" parent="1" source="04d-tC9PD0CmCFG9TaTX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#FF0000,#FF0000);" target="04d-tC9PD0CmCFG9TaTX-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="04d-tC9PD0CmCFG9TaTX-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#FF0000,#FF0000);labelBackgroundColor=none;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: transparent;&quot;&gt;data: use.analytics, no pii.identity&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: transparent;&quot;&gt;channel: HTTPS/VPN&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;letter-spacing: 0.08px; background-color: transparent;&quot;&gt;policy: tag-based enforcement (запросы к столбцам с pii.* запрещены)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="1480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
