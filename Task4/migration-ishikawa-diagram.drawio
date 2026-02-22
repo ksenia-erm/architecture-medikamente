@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="Страница-1" id="_mqKqdCvjTBhmFJ42HQv">
+    <mxGraphModel dx="2125" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Отказ текущей системы и/или снижение ее производительности на время миграции" vertex="1">
+          <mxGeometry height="30" width="60" x="760" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-80" y="340" as="sourcePoint" />
+            <mxPoint x="730" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="535" as="sourcePoint" />
+            <mxPoint x="570" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="534" as="sourcePoint" />
+            <mxPoint x="310" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-160" y="530" as="sourcePoint" />
+            <mxPoint x="30" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-120" y="100" as="sourcePoint" />
+            <mxPoint x="30" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="101" as="sourcePoint" />
+            <mxPoint x="310" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="104" as="sourcePoint" />
+            <mxPoint x="570" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontStyle=1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Инфраструктура&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="390" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontStyle=1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Программное обеспечение и архитектура&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="112" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontStyle=1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Данные&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontStyle=1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Интеграции&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontStyle=1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Люди и компетенции&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontStyle=1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Процессы&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-200" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-16" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Нет контейнерной платформы (Kubernetes, оркестрация)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="460" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-18" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Windows‑ориентированная инфраструктура при целевом Linux‑стеке&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="490" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-19" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Плоская сеть без DMZ и сегментации внутренних/внешних зон&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="530" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-20" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fontColor=default;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Один физический сервер как единая точка отказа&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="440" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-21" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;1С в файловом режиме, слабые возможности масштабирования и интеграции&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="205" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-22" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Excel как основной хранилище данных, отсутствие схем и валидации&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="225" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-23" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Устаревшая интеграция с ККМ через OLE&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="126" x="260" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-24" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Нет чётких доменных границ и модульности (сложно выделять микросервисы)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="300" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-25" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Разные форматы (Excel, PDF, JPG, 1С), отсутствие единой модели&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="-70" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-26" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Дубли и расхождения между Excel и 1С&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-50" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-27" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Нет согласованного словаря сущностей и справочников&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="-20" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-28" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Важные сведения только в сканах, требуются OCR/ручной ввод&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="10" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-29" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Низкоуровневые протоколы с ККМ без шифрования и мониторинга&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="550" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-30" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Практическое отсутствие API между текущими компонентами&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="500" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-31" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=default;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Неизбежный период одновременной работы старой и новой систем и риск рассинхронизации данных&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="450" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-32" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Малочисленная IT‑команда (3 человека)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="300" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-33" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Нехватка опыта в микросервисах, Kubernetes, CI/CD&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="248" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-34" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Привычка пользователей к Excel и сопротивление изменениям&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="190" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-35" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Неавтоматизированные, слабо формализованные бизнес‑процессы&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="20" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-36" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Отсутствие конвейера поставки (CI/CD)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="-40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-37" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Нет формального плана аварийного отката&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="-80" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="LM9h2PwoA1eEpT4ssKdz-38" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Нет чётких технических и бизнес‑метрик для оценки успеха миграции&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="-120" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
